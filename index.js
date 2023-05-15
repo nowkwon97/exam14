@@ -17,3 +17,5 @@ function exampleOne(a) {
   
   return a;
 }
+
+console.log(exampleOne(5));

@@ -12,3 +12,7 @@ def example_one(a):
     return a
 
 print(example_one(4))
+
+# 맥북은 파이썬 설치 후 python --version 이 아닌
+# python3 --version으로 확인 가능
+# 터미널에 실행 할 때도 python3으로 실행하자.
